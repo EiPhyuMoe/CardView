@@ -1,0 +1,77 @@
+[
+  {
+    "title": "Mad Max: Fury Road",
+    "genre": "Action & Adventure",
+    "year": "2015"
+  },
+  {
+    "title": "Inside Out",
+    "genre": "Animation, Kids & Family",
+    "year": "2015"
+  },
+  {
+    "title": "Star Wars: Episode VII - The Force Awakens",
+    "genre": "Action, Science Fiction",
+    "year": "2015"
+  },
+  {
+    "title": "The Martian",
+    "genre": "Science Fiction & Fantasy",
+    "year": "2015"
+  },
+  {
+    "title": "Mission: Impossible Rogue Nation",
+    "genre": "Action",
+    "year": "2015"
+  },
+  {
+    "title": "Up",
+    "genre": "Animation",
+    "year": "2009"
+  },
+  {
+    "title": "The LEGO Movie",
+    "genre": "Animation",
+    "year": "2014"
+  },
+  {
+    "title": "Aliens",
+    "genre": "Science Fiction",
+    "year": "1986"
+  },
+  {
+    "title": "Back to the Future",
+    "genre": "Science Fiction",
+    "year": "1985"
+  },
+  {
+    "title": "Doctor Strange",
+    "genre": "Animation",
+    "year": "2016"
+  },
+  {
+    "title": "Guardians of the Galaxy Vol.1",
+    "genre": "Science Fiction & Fantasy",
+    "year": "2014"
+  },
+  {
+    "title": "Guardians of the Galaxy Vol.2",
+    "genre": "Science Fiction & Fantasy",
+    "year": "2017"
+  },
+  {
+    "title": "Batman Begins",
+    "genre": " Action, Adventure",
+    "year": "2005"
+  },
+  {
+    "title": "The Dark Knight",
+    "genre": " Action,  Adventure",
+    "year": "2008"
+  },
+  {
+    "title": "The Dark Knight Rises",
+    "genre": " Action, Adventure",
+    "year": "2012"
+  }
+]
